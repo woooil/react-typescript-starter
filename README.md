@@ -1,4 +1,4 @@
-## React 17 starter project for [Code App](https://github.com/codeapp)
+## React 18 with Typescript starter project for [Code App](https://github.com/codeapp)
 - Support hot reloading
 - Preserve states between reloads using `react-hot-loader`
 
